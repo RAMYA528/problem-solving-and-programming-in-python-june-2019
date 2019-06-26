@@ -1,7 +1,10 @@
-new data
+new data 
 line3
 line4
 line5
 linr
 new
 data
+data in line 1
+data in line 2
+data in line3
